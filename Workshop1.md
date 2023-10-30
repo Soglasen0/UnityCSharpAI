@@ -41,7 +41,7 @@
 Ход работы:
 - Написать программу Hello World на Python с запуском в Jupiter Notebook.
 
-![python Hello World](./Images/PythonHelloWorld)
+![python Hello World](Images/PythonHelloWorld.png)
 
 ## Задание 2
 ### Должна ли величина loss стремиться к нулю при изменении исходных данных? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ.
