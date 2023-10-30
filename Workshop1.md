@@ -65,6 +65,8 @@ public class HelloWorld : MonoBehaviour
 
 ```
 
+- Привязать скрипт к объекту GameObject.
+
 - Запустить игру.
 
 ![UnityScene](Images/UnityScene.png)
